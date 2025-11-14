@@ -19,7 +19,7 @@ input {
 
 button {
   padding: 10px 20px;
-  background-color: #0078D7;
+  background-color: #9d71b9;
   color: white;
   border: none;
   border-radius: 5px;
@@ -27,7 +27,7 @@ button {
 }
 
 button:hover {
-  background-color: #005fa3;
+  background-color: #ac95c7;
 }
 
 #output {
